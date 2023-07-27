@@ -1,2 +1,5 @@
-# AtividadesFullCycle
-Utilizado para realização dos desafios do curso Full Cycle 3.0
+# Atividades Full Cycle
+
+Repositório utilizado para entrega dos desafios propostos no curso Full Cycle 3.0
+
+- Docker contém os desafios propostos.
